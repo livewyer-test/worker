@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for worker service of Docker training-voting-app
+name: worker
+version: 0.1.1
